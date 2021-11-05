@@ -1,5 +1,4 @@
 ### Hey data nerds 👋, This is Haneen!
-![Welcome Data nerds!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 This is Haneen, an industrial engineer. I am on my journey to use data science in industrial engineering. 
 Mainly : Datan analytics and machine learning!
