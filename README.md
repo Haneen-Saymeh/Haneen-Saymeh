@@ -1,8 +1,8 @@
-### Hey data nerds 👋, this is Haneen!
+### Hey data nerds 👋, This is Haneen!
 ![](https://github.com/Haneen-Saymeh/Haneen-Saymeh/blob/main/github%20banner3.jpg)
 
-This is Haneen, an industrial engineer. I am on my journey to use data science in industrial engineering. 
-Mainly : Datan analytics and machine learning!
+My name is Haneen, an industrial engineer. I am on my journey to use data science in industrial engineering. 
+Mainly : Data analytics and machine learning!
 
 Skills: Python/ R / SQL
 
