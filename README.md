@@ -1,7 +1,7 @@
 ### Hey tech nerds 👋, This is Haneen!
 
 
-My name is Haneen, an industrial engineer. 
+My name is Haneen, a Mechanical Engineer. 
 
 
 
