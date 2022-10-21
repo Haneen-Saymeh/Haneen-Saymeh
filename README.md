@@ -1,6 +1,6 @@
 ### Hey tech nerds 👋 
 ### My name is Haneen 韩妮
-##### I have a master's in Mechanical Engineering and passion about programming. 
+##### I have a master's degree in Mechanical Engineering and passion for programming. 
 ##### I am in my journey to become a full stack developer.
 
 <img align="center" alt="Java" width="200px" style="padding-right:10px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
