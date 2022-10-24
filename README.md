@@ -2,6 +2,16 @@
 ### My name is Haneen 韩妮
 ##### I have a master's degree in Mechanical Engineering and passion for programming. 
 ##### I am in my journey to become a full stack developer.
+##### Now Learning:
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+
+
+
+
+
+
+
 
 <img align="center" alt="Java" width="200px" style="padding-right:10px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"/>
 
