@@ -1,5 +1,5 @@
 <h1 align="center">Hey tech nerds 👋, I'm Hanin</h1>
-<h3 align="center">An aspiring full stack developer.</h3>
+<h3 align="center">Junior Back-End Developer.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
